@@ -23,3 +23,6 @@ https://docs.devexpress.com/eXpressAppFramework/113710
 
 Debugging, Unit and Functional Testing
 https://docs.devexpress.com/eXpressAppFramework/112572
+
+link for Mosh Hamedani/How to for Github basics
+https://www.youtube.com/watch?v=8JJ101D3knE&t=39s
